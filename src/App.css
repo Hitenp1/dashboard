@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.defaultWidgetFrame {
+  position: relative;
+  width: 100%;
+  margin-bottom: 5px;
+  padding: 10px 10px;
+  display: inline-block;
+}
+
+.defaultWidgetFrameHeader {
+  border-bottom: 2px solid #E6E9ED;
+  padding: 1px 5px 6px;
+  margin-bottom: 15px;
+  height: 35px;
+}
+
+.defaultWidgetFrameHeader .title {
+  font-size: 18px;
+  float: left;
+  display: block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+
+
+.col-lg-6 {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  margin: 0px;
+  padding: 10px auto auto 10px;
+}
+
